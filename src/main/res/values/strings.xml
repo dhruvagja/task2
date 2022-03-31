@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetEnrolled</string>
+    <string name="dhruv">Dhruv</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="welcome_get_enrolled">Welcome to GetEnrolled</string>
+    <string name="enter_your_roll_no">Enter Your Roll No.</string>
+</resources>
